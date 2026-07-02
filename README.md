@@ -1,6 +1,6 @@
 # 🧠 Rào Cản Tâm Lý Với AI (AI Psychological Barriers Dashboard)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://[link-streamlit-cua-ban].streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://btcndv.streamlit.app/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -10,7 +10,7 @@
 ---
 
 ## 1. 🚀 Triển Khai (Deployment & Links)
-* **Live Dashboard (Streamlit):** [Xem ứng dụng tại đây](https://[link-streamlit-cua-ban].streamlit.app)
+* **Live Dashboard (Streamlit):** [Xem ứng dụng tại đây](https://btcndv.streamlit.app/)
 * **Dataset gốc (SALT-NLP/WORKBank):** [HuggingFace](https://huggingface.co/datasets/SALT-NLP/WORKBank)
 * **Mã nguồn chính:** `l8.py`
 
